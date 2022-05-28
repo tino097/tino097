@@ -4,8 +4,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/tino097?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/tino097)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomeCirun&theme=merko&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomeCirun&theme=merko)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino097&theme=merko&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tino097&theme=merko)](https://git.io/streak-stats)
 
 <!--
 **tino097/tino097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
