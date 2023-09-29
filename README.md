@@ -7,3 +7,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tino097&theme=merko&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tino097&theme=merko)](https://git.io/streak-stats)
 
+[![An image of @tino097's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tino097)](https://holopin.io/@tino097)
+
