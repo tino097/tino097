@@ -4,5 +4,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/tino097?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/tino097)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tino097&theme=dark)](https://git.io/streak-stats)
-
+Open Data Developer and Open Source enthusiast 
