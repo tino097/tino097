@@ -4,6 +4,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/tino097?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/tino097)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tino097&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tino097&theme=merko)](https://git.io/streak-stats)
 
 
