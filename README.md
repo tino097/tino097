@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/konstantinsivakov/)](https://www.linkedin.com/in/konstantinsivakov/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tino097?style=flat-square)
